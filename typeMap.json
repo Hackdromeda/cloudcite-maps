@@ -1,0 +1,2466 @@
+{
+  "graphic": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Medium"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Artwork Size"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Artist"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "article": [
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "song": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Format"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "composer",
+      "displayText": "Composer"
+    },
+    {
+      "csl": "author",
+      "displayText": "Performer"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Label"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "bill": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "number",
+      "displayText": "Bill Number"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Code"
+    },
+    {
+      "csl": "page",
+      "displayText": "Code Pages"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Code Volume"
+    },
+    {
+      "csl": "author",
+      "displayText": "Sponsor"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "references",
+      "displayText": "History"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "authority",
+      "displayText": "Legislative Body"
+    },
+    {
+      "csl": "section",
+      "displayText": "Section"
+    },
+    {
+      "csl": "chapter-number",
+      "displayText": "Session"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "post-weblog": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Blog Title"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Website Type"
+    }
+  ],
+  "book": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "number-of-pages",
+      "displayText": "# of Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "collection-number",
+      "displayText": "Series Number"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "chapter": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Book Title"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "container-author",
+      "displayText": "Book Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "collection-number",
+      "displayText": "Series Number"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "legal_case": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "title",
+      "displayText": "Case Name"
+    },
+    {
+      "csl": "authority",
+      "displayText": "Court"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date Decided"
+    },
+    {
+      "csl": "number",
+      "displayText": "Docket Number"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "page",
+      "displayText": "First Page"
+    },
+    {
+      "csl": "references",
+      "displayText": "History"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Reporter"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Reporter Volume"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "computerProgram": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Company"
+    },
+    {
+      "csl": "author",
+      "displayText": "Programmer"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Language"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "medium",
+      "displayText": "System"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "version",
+      "displayText": "Version"
+    }
+  ],
+  "paper-conference": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "event",
+      "displayText": "Conference Name"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "DOI",
+      "displayText": "DOI"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Proceedings Title"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "entry-dictionary": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Dictionary Title"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "collection-number",
+      "displayText": "Series Number"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "personal_communication": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "recipient",
+      "displayText": "Recipient"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Subject"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "entry-encyclopedia": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Encyclopedia Title"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "collection-number",
+      "displayText": "Series Number"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "motion_picture": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Director"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Distributor"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Genre"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Format"
+    }
+  ],
+  "post": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Forum/Listserv Title"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Post Type"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "hearing(bill)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "section",
+      "displayText": "Committee"
+    },
+    {
+      "csl": "author",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "number",
+      "displayText": "Document Number"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "references",
+      "displayText": "History"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "authority",
+      "displayText": "Legislative Body"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "chapter-number",
+      "displayText": "Session"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "instantMessage(personal_communication)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "recipient",
+      "displayText": "Recipient"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "interview": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Interview With"
+    },
+    {
+      "csl": "interviewer",
+      "displayText": "Interviewer"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Medium"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "article-journal": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "editor",
+      "displayText": "Editor"
+    },
+    {
+      "csl": "reviewed-author",
+      "displayText": "Reviewed Author"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "DOI",
+      "displayText": "DOI"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISSN",
+      "displayText": "ISSN"
+    },
+    {
+      "csl": "issue",
+      "displayText": "Issue"
+    },
+    {
+      "csl": "container-title-short or <text variable=",
+      "displayText": "Journal Abbr"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Publication"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "letter(personal_communication)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "recipient",
+      "displayText": "Recipient"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Type"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "article-magazine": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "reviewed-author",
+      "displayText": "Reviewed Author"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISSN",
+      "displayText": "ISSN"
+    },
+    {
+      "csl": "issue",
+      "displayText": "Issue"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Publication"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "manuscript": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Type"
+    },
+    {
+      "csl": "number-of-pages",
+      "displayText": "# of Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "map": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Cartographer"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Type"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Publisher"
+    },
+    {
+      "csl": "scale",
+      "displayText": "Scale"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "newspaper-article": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "reviewed-author",
+      "displayText": "Reviewed Author"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "edition",
+      "displayText": "Edition"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISSN",
+      "displayText": "ISSN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Publication"
+    },
+    {
+      "csl": "section",
+      "displayText": "Section"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "patent": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Application Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Inventor"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "submitted",
+      "displayText": "Filing Date"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Issue Date"
+    },
+    {
+      "csl": "authority",
+      "displayText": "Issuing Authority"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "status",
+      "displayText": "Legal Status"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "number",
+      "displayText": "Patent Number"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "issue",
+      "displayText": "Priority Numbers"
+    },
+    {
+      "csl": "references",
+      "displayText": "References"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "song(podcast)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "medium",
+      "displayText": "File Type"
+    },
+    {
+      "csl": "author",
+      "displayText": "Podcaster"
+    },
+    {
+      "csl": "number",
+      "displayText": "Episode Number"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "speech": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "author",
+      "displayText": "Presenter"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "event",
+      "displayText": "Meeting Name"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Type"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "broadcast": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Format"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Director"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "number",
+      "displayText": "Episode Number"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Network"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Program Title"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "report": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "collection-editor",
+      "displayText": "Series Editor"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Institution"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "number",
+      "displayText": "Report Number"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Report Type"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "legislation": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Code"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Code Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date Enacted"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "references",
+      "displayText": "History"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "title",
+      "displayText": "Name of Act"
+    },
+    {
+      "csl": "page",
+      "displayText": "Pages"
+    },
+    {
+      "csl": "number",
+      "displayText": "Public Law Number"
+    },
+    {
+      "csl": "section",
+      "displayText": "Section"
+    },
+    {
+      "csl": "chapter-number",
+      "displayText": "Session"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "thesis": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-pages",
+      "displayText": "# of Pages"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Type"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "University"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    }
+  ],
+  "tv(brodacast)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Director"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "number",
+      "displayText": "Episode Number"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Network"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Program Title"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Format"
+    }
+  ],
+  "video(motion_picture)": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "archive",
+      "displayText": "Archive"
+    },
+    {
+      "csl": "archive_location",
+      "displayText": "Loc. in Archive"
+    },
+    {
+      "csl": "call-number",
+      "displayText": "Call Number"
+    },
+    {
+      "csl": "author",
+      "displayText": "Director"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "ISBN",
+      "displayText": "ISBN"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "source",
+      "displayText": "Library Catalog"
+    },
+    {
+      "csl": "number-of-volumes",
+      "displayText": "# of Volumes"
+    },
+    {
+      "csl": "publisher-place",
+      "displayText": "Place"
+    },
+    {
+      "csl": "dimensions",
+      "displayText": "Running Time"
+    },
+    {
+      "csl": "collection-title",
+      "displayText": "Series Title"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "publisher",
+      "displayText": "Studio"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "medium",
+      "displayText": "Format"
+    },
+    {
+      "csl": "volume",
+      "displayText": "Volume"
+    }
+  ],
+  "webpage": [
+    {
+      "csl": "abstract",
+      "displayText": "Abstract"
+    },
+    {
+      "csl": "accessed",
+      "displayText": "Accessed"
+    },
+    {
+      "csl": "author",
+      "displayText": "Author"
+    },
+    {
+      "csl": "translator",
+      "displayText": "Translator"
+    },
+    {
+      "csl": "issued",
+      "displayText": "Date"
+    },
+    {
+      "csl": "note",
+      "displayText": "Extra"
+    },
+    {
+      "csl": "language",
+      "displayText": "Language"
+    },
+    {
+      "csl": "title-short or <text variable=",
+      "displayText": "Short Title"
+    },
+    {
+      "csl": "title",
+      "displayText": "Title"
+    },
+    {
+      "csl": "URL",
+      "displayText": "URL"
+    },
+    {
+      "csl": "container-title",
+      "displayText": "Website Title"
+    },
+    {
+      "csl": "genre",
+      "displayText": "Website Type"
+    }
+  ]
+}
