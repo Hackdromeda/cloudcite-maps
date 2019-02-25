@@ -6,6 +6,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -30,10 +31,16 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Artist"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -49,7 +56,11 @@
       "displayText": "Library Catalog"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -64,6 +75,7 @@
   "article": [
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -82,6 +94,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -101,15 +114,26 @@
       "displayText": "Call Number"
     },
     {
-      "csl": "composer",
+      "csl": "author",
+      "group": "name-variables",
       "displayText": "Composer"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Performer"
     },
     {
+      "csl": "",
+      "displayText": "Words By"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -141,6 +165,10 @@
       "displayText": "Place"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
@@ -149,7 +177,7 @@
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -172,6 +200,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -191,11 +220,21 @@
       "displayText": "Code Volume"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "",
+      "displayText": "Cosponsor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Sponsor"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -215,6 +254,10 @@
       "displayText": "Legislative Body"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "section",
       "displayText": "Section"
     },
@@ -223,7 +266,7 @@
       "displayText": "Session"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -242,6 +285,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -250,10 +294,20 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Commenter"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -265,7 +319,11 @@
       "displayText": "Language"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -288,6 +346,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -304,22 +363,31 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -359,6 +427,10 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
     },
@@ -367,7 +439,7 @@
       "displayText": "Series Number"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -390,6 +462,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -410,26 +483,36 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
       "csl": "container-author",
+      "group": "name-variables",
       "displayText": "Book Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -469,6 +552,10 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
     },
@@ -477,7 +564,7 @@
       "displayText": "Series Number"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -500,6 +587,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -512,7 +600,16 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "",
+      "displayText": "Counsel"
     },
     {
       "csl": "issued",
@@ -547,7 +644,11 @@
       "displayText": "Reporter Volume"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -562,6 +663,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -581,11 +683,17 @@
       "displayText": "Company"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Programmer"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -609,11 +717,15 @@
       "displayText": "Language"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -640,6 +752,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -660,22 +773,31 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -715,11 +837,15 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -742,6 +868,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -758,22 +885,31 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -817,6 +953,10 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
     },
@@ -825,7 +965,7 @@
       "displayText": "Series Number"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -848,18 +988,26 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "recipient",
+      "group": "name-variables",
       "displayText": "Recipient"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -871,7 +1019,11 @@
       "displayText": "Language"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -890,6 +1042,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -906,22 +1059,31 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -965,6 +1127,10 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
     },
@@ -973,7 +1139,7 @@
       "displayText": "Series Number"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -996,6 +1162,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1011,11 +1178,25 @@
       "displayText": "Call Number"
     },
     {
-      "csl": "author",
-      "displayText": "Director"
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "director",
+      "displayText": "Director",
+      "group": "name-variables"
+    },
+    {
+      "csl": "",
+      "displayText": "Producer"
+    },
+    {
+      "csl": "",
+      "displayText": "Scriptwriter"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1039,11 +1220,15 @@
       "displayText": "Library Catalog"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1066,14 +1251,21 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1093,7 +1285,11 @@
       "displayText": "Post Type"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1112,6 +1308,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1120,10 +1317,12 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Contributor"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1163,11 +1362,15 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "chapter-number",
       "displayText": "Session"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1186,18 +1389,26 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "recipient",
+      "group": "name-variables",
       "displayText": "Recipient"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1209,7 +1420,11 @@
       "displayText": "Language"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1228,6 +1443,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1243,19 +1459,27 @@
       "displayText": "Call Number"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Interview With"
     },
     {
       "csl": "interviewer",
+      "group": "name-variables",
       "displayText": "Interviewer"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1275,7 +1499,11 @@
       "displayText": "Library Catalog"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1294,6 +1522,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1310,22 +1539,31 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "editor",
+      "group": "name-variables",
       "displayText": "Editor"
     },
     {
       "csl": "reviewed-author",
+      "group": "name-variables",
       "displayText": "Reviewed Author"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1345,7 +1583,7 @@
       "displayText": "Issue"
     },
     {
-      "csl": "container-title-short or <text variable=",
+      "csl": "container-title-short",
       "displayText": "Journal Abbr"
     },
     {
@@ -1365,15 +1603,23 @@
       "displayText": "Publication"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series"
+    },
+    {
+      "csl": "",
+      "displayText": "Series Text"
     },
     {
       "csl": "collection-title",
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1396,6 +1642,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1412,14 +1659,21 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "recipient",
+      "group": "name-variables",
       "displayText": "Recipient"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1432,14 +1686,18 @@
     },
     {
       "csl": "genre",
-      "displayText": "Type"
+      "displayText": "csl"
     },
     {
       "csl": "source",
       "displayText": "Library Catalog"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1458,6 +1716,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1474,18 +1733,26 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "reviewed-author",
+      "group": "name-variables",
       "displayText": "Reviewed Author"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1517,7 +1784,11 @@
       "displayText": "Publication"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1540,6 +1811,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1556,14 +1828,21 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1580,7 +1859,7 @@
     },
     {
       "csl": "genre",
-      "displayText": "Type"
+      "displayText": "csl"
     },
     {
       "csl": "number-of-pages",
@@ -1591,7 +1870,11 @@
       "displayText": "Place"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1610,6 +1893,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1626,14 +1910,21 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Cartographer"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1658,7 +1949,7 @@
     },
     {
       "csl": "genre",
-      "displayText": "Type"
+      "displayText": "csl"
     },
     {
       "csl": "publisher-place",
@@ -1669,6 +1960,10 @@
       "displayText": "Publisher"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "scale",
       "displayText": "Scale"
     },
@@ -1677,7 +1972,7 @@
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1696,6 +1991,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1712,18 +2008,26 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "reviewed-author",
+      "group": "name-variables",
       "displayText": "Reviewed Author"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1759,11 +2063,15 @@
       "displayText": "Publication"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "section",
       "displayText": "Section"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1782,6 +2090,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1789,7 +2098,24 @@
       "displayText": "Application Number"
     },
     {
+      "csl": "",
+      "displayText": "Assignee"
+    },
+    {
+      "csl": "",
+      "displayText": "Country"
+    },
+    {
+      "csl": "",
+      "displayText": "Attorney/Agent"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Inventor"
     },
     {
@@ -1837,7 +2163,11 @@
       "displayText": "References"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1856,6 +2186,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1863,7 +2194,16 @@
       "displayText": "File Type"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "",
+      "displayText": "Guest"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Podcaster"
     },
     {
@@ -1879,6 +2219,10 @@
       "displayText": "Language"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
@@ -1887,7 +2231,7 @@
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1906,14 +2250,21 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Presenter"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -1934,10 +2285,14 @@
     },
     {
       "csl": "genre",
-      "displayText": "Type"
+      "displayText": "csl"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -1956,6 +2311,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -1975,11 +2331,33 @@
       "displayText": "Call Number"
     },
     {
-      "csl": "author",
-      "displayText": "Director"
+      "csl": "",
+      "displayText": "Cast Member"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "director",
+      "displayText": "Director",
+      "group": "name-variables"
+    },
+    {
+      "csl": "",
+      "displayText": "Guest"
+    },
+    {
+      "csl": "",
+      "displayText": "Producer"
+    },
+    {
+      "csl": "",
+      "displayText": "Scriptwriter"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2011,11 +2389,15 @@
       "displayText": "Program Title"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2034,6 +2416,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -2050,18 +2433,26 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "collection-editor",
+      "group": "name-variables",
       "displayText": "Series Editor"
     },
     {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2097,11 +2488,15 @@
       "displayText": "Report Type"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "collection-title",
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2120,6 +2515,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -2132,7 +2528,12 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
     },
     {
       "csl": "issued",
@@ -2163,6 +2564,10 @@
       "displayText": "Public Law Number"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "section",
       "displayText": "Section"
     },
@@ -2171,7 +2576,7 @@
       "displayText": "Session"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2186,6 +2591,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -2202,10 +2608,16 @@
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2229,7 +2641,11 @@
       "displayText": "Place"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2256,6 +2672,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -2271,11 +2688,33 @@
       "displayText": "Call Number"
     },
     {
+      "csl": "",
+      "displayText": "Cast Member"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Director"
     },
     {
+      "csl": "",
+      "displayText": "Guest"
+    },
+    {
+      "csl": "",
+      "displayText": "Producer"
+    },
+    {
+      "csl": "",
+      "displayText": "Scriptwriter"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2307,11 +2746,15 @@
       "displayText": "Program Title"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2334,6 +2777,7 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
@@ -2349,11 +2793,28 @@
       "displayText": "Call Number"
     },
     {
-      "csl": "author",
+      "csl": "",
+      "displayText": "Cast Member"
+    },
+    {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
+      "csl": "director",
       "displayText": "Director"
     },
     {
+      "csl": "",
+      "displayText": "Producer"
+    },
+    {
+      "csl": "",
+      "displayText": "Scriptwriter"
+    },
+    {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2381,6 +2842,10 @@
       "displayText": "Place"
     },
     {
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
       "csl": "dimensions",
       "displayText": "Running Time"
     },
@@ -2389,7 +2854,7 @@
       "displayText": "Series Title"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
@@ -2420,18 +2885,26 @@
     },
     {
       "csl": "accessed",
+      "group": "date-variables",
       "displayText": "Accessed"
     },
     {
       "csl": "author",
+      "group": "name-variables",
       "displayText": "Author"
     },
     {
+      "csl": "",
+      "displayText": "Contributor"
+    },
+    {
       "csl": "translator",
+      "group": "name-variables",
       "displayText": "Translator"
     },
     {
       "csl": "issued",
+      "group": "date-variables",
       "displayText": "Date"
     },
     {
@@ -2443,7 +2916,11 @@
       "displayText": "Language"
     },
     {
-      "csl": "title-short or <text variable=",
+      "csl": "",
+      "displayText": "Rights"
+    },
+    {
+      "csl": "title-short",
       "displayText": "Short Title"
     },
     {
